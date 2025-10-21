@@ -2,9 +2,9 @@
 **`Studying All Things Data`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- I’m a student studying Big Data and Artificial Intelligence with a passion for data-driven problem solving.
+- I enjoy learning new technologies and contributing to open-source projects that make an impact.
+- I’m currently looking for an internship opportunity in Berlin to grow my skills and gain real-world experience.
 
 
 ## Skill stack
