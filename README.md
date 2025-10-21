@@ -1,5 +1,5 @@
-# 🐐 Maximus Soares Demo Account
-**`Growth Lead at NextWork`** 
+# Kaveen Seneviratne
+**`Studying All Things Data`** 
 
 ## About Me
 - I build, ship, and tell the story in public.
@@ -72,7 +72,7 @@
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
+![Kaveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaveenseneviratne&show_icons=true&theme=gruvbox)
 
 ---
 
