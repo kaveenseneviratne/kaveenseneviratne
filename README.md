@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a student studying Big Data and Artificial Intelligence with a passion for data-driven problem solving.<br>I enjoy learning new technologies and contributing to open-source projects that make an impact.<br>I’m currently looking for an internship opportunity in Berlin to grow my skills and gain real-world experience.<br>
+I’m a student studying Big Data and Artificial Intelligence with a passion for data-driven problem solving.<br>I enjoy learning new technologies and contributing to open-source projects that make an impact.<br>I’m currently looking for work opportunities in Berlin to grow my skills, real-world experience and contribute.<br>
 
 
 ## 🌐 Socials:
